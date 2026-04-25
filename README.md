@@ -55,7 +55,3 @@ This project is a simple 3D/GUI card game built with Unity. The player enters ba
 
 - `Assets/Scenes/menu.unity`: main menu and input screens.
 - `Assets/Scenes/oyun.unity`: main card battle gameplay scene.
-
-## Notes
-
-This repository contains the Unity project files and gameplay scripts. Generated Unity folders such as `Library`, `Temp`, and `Logs` do not need to be committed if the project is later added to Git.
